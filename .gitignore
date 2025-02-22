@@ -1,0 +1,6 @@
+node_modules/ 
+input/*
+__pycache__/
+venv/
+.env
+input/artfaces/abstract-expressionism/0.227_may-1973.jpg!Blog.jpg
