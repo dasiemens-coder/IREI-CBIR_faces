@@ -1,5 +1,6 @@
 node_modules/ 
-input/*
+input/portrain_painting
+input/artfaces
 __pycache__/
 venv/
 .env
