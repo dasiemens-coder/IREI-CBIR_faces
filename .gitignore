@@ -5,4 +5,3 @@ __pycache__/
 venv/
 .env
 input/artfaces/abstract-expressionism/0.227_may-1973.jpg!Blog.jpg
-feature_db/data.npz
