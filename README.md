@@ -31,6 +31,7 @@ The project consists of **one notebook** with all the code:
 ## Execution Instructions
 1. Ensure all necessary dependencies are installed.
 2. To run the notebook locally, download the dataset from Kaggle (https://www.kaggle.com/datasets/deewakarchakraborty/portrait-paintings) and place it in the `/input/portrait_painting` directory.
+3. Follow instructions in to change path variables 'irei-cbir-faces.ipynb'
 
 ### Notes
 - Ensure the `/input/query_images` folder is populated with the query images we want to retrieve before execution.
